@@ -1,4 +1,4 @@
-// Function to find missing elements in an array from 0 to highest number
+
 
 /*
 Question 4:
@@ -7,7 +7,7 @@ element from 0 to the highest entry. For example, in an array [3,4,9,1,7,3,2,6] 
 entry is 9, and missing numbers are [0,5,8].
 */
 
-
+// Function to find missing elements in an array from 0 to highest number
 function findMissingNumbers(arr) {
     if (arr.length === 0) {
         return [];
